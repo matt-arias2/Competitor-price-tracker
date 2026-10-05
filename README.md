@@ -1,6 +1,6 @@
 # Competitor Price Tracker
 
-Automated weekly price intelligence built for a furniture retail client. Scrapes product pages across 13 competitor sites, stores a timestamped price history in SQLite, flags week-over-week changes, and benchmarks every competitor price against the client's own retail, delivered as a formatted Excel report and an interactive Streamlit dashboard.
+Automated weekly price intelligence tool built for a furniture retail client. Scrapes product pages across 13 competitor sites, stores a timestamped price history in SQLite, flags week-over-week changes, and benchmarks every competitor price against the client's own retail, delivered as a formatted Excel report and an interactive Streamlit dashboard.
 
 **The problem:** the client's pricing team tracked competitors by hand: opening 100+ product pages every week, copying prices into a spreadsheet, and eyeballing what changed. Slow, error-prone, and blind to short-lived promotions.
 
