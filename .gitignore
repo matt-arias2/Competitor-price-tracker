@@ -1,0 +1,17 @@
+# Private inputs and generated outputs: never commit real pricing data
+RESOURCES/
+OUTPUT/
+data/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / tools
+.vscode/
+.idea/
+.claude/
+.playwright-mcp/
